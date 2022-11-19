@@ -5,6 +5,8 @@
 - 🎓 Studying Physics at the State University of Feira de Santana 
 - 🎓 Studing system development and analysis at Unopar
 
+E-mail: silas.paixao873@gmail.com
+
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
