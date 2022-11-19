@@ -3,7 +3,7 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Front-end web developer
 - 🎓 Studying Physics at the State University of Feira de Santana 
-- 🎓 Studing system development and analysis at Unopar
+- 🎓 Studing System Development and Analysis at Unopar
 
 E-mail: silas.paixao873@gmail.com
 
