@@ -1,8 +1,7 @@
 ### Hi there! I'm Silas 👋
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Front-end web developer
-- 🎓 Studying Physics at the State University of Feira de Santana 
+- 🖥 Back-end developer
 - 🎓 Studying System Development and Analysis at Unopar
 
 E-mail: silas.paixao873@gmail.com
@@ -18,13 +17,7 @@ E-mail: silas.paixao873@gmail.com
       <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       
   </div>
-    
-##### Most Used Libraries: 
- *Material UI <img align="center" height="40" width="40" alt="mui-icon"  src="https://mui.com/static/logo.png"> </br>
- *React Bootstrap <img align="center" height="30" width="30" alt="react-bootstrap-icon"  src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4"></br></br>
- *Chakra UI <img align="center" height="30" width="70" alt="chakra-icon"  src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png"> </br>
-#### Others
-</br></br>
+ 
   
   <h2 align="center">Social Medias</h2>
     <a href = "mailto: silas.paixao873@gmail.com">
