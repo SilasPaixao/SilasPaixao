@@ -15,7 +15,12 @@ E-mail: silas.paixao873@gmail.com
       <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      
+      <img align="center" height="30" width="40" alt="css-icon" src="https://github.com/SilasPaixao/SilasPaixao/blob/main/images.png?raw=true">
+      <img align="center" height="30" width="40" alt="css-icon" src="https://github.com/SilasPaixao/SilasPaixao/blob/main/mysql-ar21.png?raw=true">
+      <img align="center" height="30" width="40" alt="css-icon" src="https://github.com/SilasPaixao/SilasPaixao/blob/main/nodejs_original_wordmark_logo_icon_146412.png?raw=true">
+      <img align="center" height="30" width="40" alt="css-icon" src="">
+
+
   </div>
  
   
