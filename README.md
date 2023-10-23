@@ -30,7 +30,7 @@ E-mail: silas.paixao873@gmail.com
   
 I recently transitioned in my career to web development. I have experience in front-end technologies (HTML, CSS, and React), but from the beginning, I've been emphasizing the backend aspects, combining good development practices such as Clean Architecture, SOLID principles, Domain-Driven Design (DDD), and Test-Driven Development (TDD). I also focus on documentation using Swagger, and I follow coding standards using libraries like ESLint, Husky, lint-staged, and git-commit-msg-linter to keep the code clean, well-organized, and decoupled.
 
-My skills include JavaScript, TypeScript, Node.js, Express, MySQL, MongoDB, Firebase, Git/GitHub, and Docker.
+My skills include JavaScript, TypeScript, Node.js, Express, ReactJS, Redux, MySQL, MongoDB, Firebase, Git/GitHub, and Docker.
 
 
 <br />
