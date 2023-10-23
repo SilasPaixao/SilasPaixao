@@ -1,7 +1,7 @@
 ### Hi there! I'm Silas 👋
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Back-end developer
+- 🖥 Back-end developer | TDD | Clean Architecture Enthusiast
 - 🎓 Studying System Development and Analysis at Unopar
 
 E-mail: silas.paixao873@gmail.com
