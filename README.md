@@ -1,8 +1,8 @@
-### Hi there! I'm Silas 👋
+### Olá, Sou o Silas 👋
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Back-end developer | TDD | Clean Architecture Enthusiast
-- 🎓 Studying System Development and Analysis at Unopar
+## :book: Sobre mim
+- 🖥 Full-Stack Engineer | TDD | Clean Architecture Enthusiast
+
 
 E-mail: silas.paixao873@gmail.com
 
@@ -28,25 +28,51 @@ E-mail: silas.paixao873@gmail.com
 <br />
 
   
-I recently transitioned in my career to web development. I have experience in front-end technologies (HTML, CSS, and React), but from the beginning, I've been emphasizing the backend aspects, combining good development practices such as Clean Architecture, SOLID principles, Domain-Driven Design (DDD), and Test-Driven Development (TDD). I also focus on documentation using Swagger, and I follow coding standards using libraries like ESLint, Husky, lint-staged, and git-commit-msg-linter to keep the code clean, well-organized, and decoupled.
+Sou um desenvolvedor Full Stack, focado em Node.js, com experiência em desenvolvimento com React.js, criação de testes de código com Jest, melhoria de desempenho e integração de aplicações.
 
-My skills include JavaScript, TypeScript, Node.js, Express, ReactJS, Redux, MySQL, MongoDB, Firebase, Git/GitHub, and Docker.
+
+
+#### Metodologias/designs
+TDD
+Clean Architecture
+DDD
+Conventional Commits
+GitFlow
+Modular Design
+Dependency Diagrams
+Use Cases
+
+#### Princípios: 
+Single Responsibility Principle (SRP)
+Open Closed Principle (OCP)
+Liskov Substitution Principle (LSP)
+Interface Segregation Principle (ISP)
+Dependency Inversion Principle (DIP)
+Don't Repeat Yourself (DRY)
+Composition Over Inheritance
+Small Commits
+
+#### Design patterns:
+Factory
+Adapter
+Composite
+Decorator
+Proxy
+Dependency Injection
+Abstract Server
+Composition Root
+
 
 
 <br />
  </div>
   
   <h2 align="center">Social Medias</h2>
-    <a href = "mailto: silas.paixao873@gmail.com">
-      <img width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq3Io3fBSQ4UAlvkjbqlXy2Q3ldKt4z-Rz9tWg3o9OsQ&s">
-    </a>&nbsp;
     <a href = "https://www.linkedin.com/in/silas-paix%C3%A3o-8a2a85205/">
       <img width="50" src="https://blog.waalaxy.com/wp-content/uploads/2021/01/Linkedin-Logo-2048x1280.png">
-    </a>&nbsp;
-    <a href = "https://www.instagram.com/silas.paixa0/">
-      <img width="25" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
-    </a> &nbsp;&nbsp;
-   <a href = "https://acesse.dev/portfolio-silas">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href = "https://acesse.dev/portfolio-silas">
       PORTFÓLIO
     </a>
 </div>
