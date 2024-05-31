@@ -10,7 +10,7 @@ E-mail: silas.paixao873@gmail.com
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h2 align="center">Current stacks <3</h2>
+    <h2 align="center">Stacks</h2>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" height="30" width="40" alt="css-icon" src="https://github.com/SilasPaixao/SilasPaixao/blob/main/ts.png?raw=true">
       <img align="center" height="30" width="40" alt="css-icon" src="https://github.com/SilasPaixao/SilasPaixao/blob/main/nodejs_original_wordmark_logo_icon_146412.png?raw=true">
