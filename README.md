@@ -33,34 +33,34 @@ Sou um desenvolvedor Full Stack, focado em Node.js, com experiência em desenvol
 
 
 #### Metodologias/designs
-TDD
-Clean Architecture
-DDD
-Conventional Commits
-GitFlow
-Modular Design
-Dependency Diagrams
-Use Cases
+TDD,
+Clean Architecture,
+DDD,
+Conventional Commits,
+GitFlow,
+Modular Design,
+Dependency Diagrams,
+Use Cases,
 
 #### Princípios: 
-Single Responsibility Principle (SRP)
-Open Closed Principle (OCP)
-Liskov Substitution Principle (LSP)
-Interface Segregation Principle (ISP)
-Dependency Inversion Principle (DIP)
-Don't Repeat Yourself (DRY)
-Composition Over Inheritance
-Small Commits
+Single Responsibility Principle (SRP),
+Open Closed Principle (OCP),
+Liskov Substitution Principle (LSP),
+Interface Segregation Principle (ISP),
+Dependency Inversion Principle (DIP),
+Don't Repeat Yourself (DRY),
+Composition Over Inheritance,
+Small Commits,
 
 #### Design patterns:
-Factory
-Adapter
-Composite
-Decorator
-Proxy
-Dependency Injection
-Abstract Server
-Composition Root
+Factory,
+Adapter,
+Composite,
+Decorator,
+Proxy,
+Dependency Injection,
+Abstract Server,
+Composition Root,
 
 
 
