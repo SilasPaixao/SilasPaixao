@@ -28,7 +28,7 @@ E-mail: silas.paixao873@gmail.com
 <br />
 
   
-Sou um desenvolvedor Full Stack, focado em Node.js, com experiência em desenvolvimento com React.js, criação de testes de código com Jest, melhoria de desempenho e integração de aplicações.
+Sou um desenvolvedor Full Stack, focado em Node.js, com experiência em desenvolvimento com React.js/Next.js, criação de testes de código com Jest, melhoria de desempenho e integração de aplicações.
 
 
 
